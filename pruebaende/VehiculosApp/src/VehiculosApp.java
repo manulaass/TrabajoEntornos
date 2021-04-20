@@ -88,8 +88,9 @@ public class VehiculosApp {
 	        // Muestro el contenido del fichero
 	        System.out.printf("Leyendo \"%s\"... %n", FICH_2);
 	        lector2.show();
-	 
+	        
 	    }
+	    System.out.println("hola soy esteban");
 	
 
 	}
