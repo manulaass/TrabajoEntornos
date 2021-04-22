@@ -93,8 +93,7 @@ public class VehiculosApp {
 	    System.out.println("hola soy esteban este cambio se ha producido el 21/04 ");
 	    System.out.println("Hola, primer cambio de Manuel")
 	    System.out.println("este cambio esta hecho el 21/04/21 19:45");
-	    System.out.println("Hola soy Assma y este es mi primer cambio 22/04");
-		   
+	    
 //	
 
 	}
