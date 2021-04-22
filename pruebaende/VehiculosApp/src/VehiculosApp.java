@@ -89,13 +89,11 @@ public class VehiculosApp {
 	        System.out.printf("Leyendo \"%s\"... %n", FICH_2);
 	        lector2.show();
 	        
-	        int suma=0;
-	        for(int i=0;i<5,i++) {
-	        	suma+=suma;
-	        	
-	        }
-	        System.out.println(suma);
 	    }
+	    System.out.println("hola soy esteban este cambio se ha producido el 21/04 ");
+	    System.out.println("Hola, primer cambio de Manuel")
+	    System.out.println("este cambio esta hecho el 21/04/21 19:45");
+	    //este cambio se hace en la brecha Master
 	    
 //	
 
