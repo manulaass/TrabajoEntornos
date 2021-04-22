@@ -89,6 +89,12 @@ public class VehiculosApp {
 	        System.out.printf("Leyendo \"%s\"... %n", FICH_2);
 	        lector2.show();
 	        
+	        int suma=0;
+	        for(int i=0;i<5,i++) {
+	        	suma+=suma;
+	        	
+	        }
+	        System.out.println(suma);
 	    }
 	    
 //	
