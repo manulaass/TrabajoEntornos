@@ -95,7 +95,10 @@ public class VehiculosApp {
 	    System.out.println("este cambio esta hecho el 21/04/21 19:45");
 	    System.out.println("Hola soy Assma y este es mi primer cambio 22/04");
 		   
-//	
+	  for(int i=0;i<5,i++) {
+    	suma+=suma;
+    	System.out.print(suma);
+    }
 
 	}
 
