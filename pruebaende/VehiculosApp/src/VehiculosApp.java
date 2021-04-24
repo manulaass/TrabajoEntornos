@@ -99,6 +99,13 @@ public class VehiculosApp {
     	suma+=suma;
     	System.out.print(suma);
     }
+	    for(int i=0;i<5,i++) {
+        	suma+=suma;
+        	System.out.print(suma);
+        }
+        System.out.println("continuamos con la mejora");
+	    Probando errores en union de Ramas 
+//	
 
 	}
 
